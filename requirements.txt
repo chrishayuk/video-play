@@ -1,0 +1,5 @@
+yt-dlp
+scenedetect
+tabulate
+argparse
+opencv-python
